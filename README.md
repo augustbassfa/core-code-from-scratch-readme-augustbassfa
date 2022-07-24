@@ -8,7 +8,7 @@
 
 <h1 align="center">README</h1>
 
-    «Nadie debe empezar un proyecto grande. Empiezas con uno pequeño y trivial y nunca debes esperar que crezcan; si lo haces solamente sobre-diseñarás y generalmente pensarás que es más importante de lo que lo es en esta etapa. O peor, puedes asustarte por el tamaño de lo que tu esperas que crezca. Así que empieza pequeño y piensa en los detalles. No pienses acerca de la foto grande y el diseño elegante. Si no resuelve una necesidad inmediata, seguramente está sobrediseñado. Y no esperes que la gente salte a ayudarte, no es así como estas cosas funcionan. Primero debes tener algo medianamente usable y otros dirán «hey, esto casi funciona para mí» y se involucrarán en el proyecto.»
+   «Nadie debe empezar un proyecto grande. Empiezas con uno pequeño y trivial y nunca debes esperar que crezcan; si lo haces solamente sobre-diseñarás y generalmente pensarás que es más importante de lo que lo es en esta etapa. O peor, puedes asustarte por el tamaño de lo que tu esperas que crezca. Así que empieza pequeño y piensa en los detalles. No pienses acerca de la foto grande y el diseño elegante. Si no resuelve una necesidad inmediata, seguramente está sobrediseñado. Y no esperes que la gente salte a ayudarte, no es así como estas cosas funcionan. Primero debes tener algo medianamente usable y otros dirán «hey, esto casi funciona para mí» y se involucrarán en el proyecto.»
     
 <b>Linus Troval</b>
 
