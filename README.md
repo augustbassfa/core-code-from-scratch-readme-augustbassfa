@@ -28,5 +28,5 @@ If you want to see how my page is doing:
 
 ## Helpful Resources 📖
 
-1. [Markdown cheetsheet](https://www.markdownguide.org/cheat-sheet)
-2. [Another Markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [My-Books](....)
+2. [CodeWars](https://www.codewars.com/)
