@@ -20,7 +20,7 @@ Here I record everything learned in the "Core Code-io BootCamp", it is the place
 
 1. First Activity [1️⃣](https://github.com/augustbassfa/core-code-from-scratch-readme-augustbassfa/blob/main/actividad/First)
 
-## My social networks 👍🏻
+## My Social Networks 👍🏻
 
 1. [Facebook](https://facebook.com/augustbassfa)
 2. [Instagram](https://instagram.com/augustbassfa)
