@@ -2,7 +2,7 @@
 
 <a href="https://www.augustfrancisco.me/">
 
-![alt text](picture/img/3.png)
+![alt text](imagen/img/3.png)
 
 </a>
 
