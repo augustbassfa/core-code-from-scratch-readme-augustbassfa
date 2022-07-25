@@ -2,7 +2,7 @@
                             
 `Available Instructions`                            
                             
-´´´
+```
   Starting point: START
   Input: READ, GET
   Output: PRINT
@@ -11,11 +11,11 @@
   Initialize: SET, INIT
   Add one: INCREMENT
   End point: END
-´´´
+```
 
 `Pseudocode`
 
-´´´
+```
 TASK LIST:
 You have been selected to develop the algorithm that will be used to convert dollars (USD) to bitcoin (BTC), 
 for this the first thing you must do is deliver a pseudocode with the algorithm to be developed, in this way 
