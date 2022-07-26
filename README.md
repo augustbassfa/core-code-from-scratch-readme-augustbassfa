@@ -16,9 +16,9 @@
 
 Here I record everything learned in the "Core Code-io BootCamp", it is the place where all the solved exercises will be kept under control.
 
-## Homeworks 🚀
+## Week Challenges 🚀
 
-1. First Activity [1️⃣](https://github.com/augustbassfa/core-code-from-scratch-readme-augustbassfa/blob/main/actividad/First)
+1.  Tuesday 19/07/2022 [1️⃣](https://github.com/augustbassfa/core-code-from-scratch-readme-augustbassfa/blob/main/SemanaChallenges/Martes190722/1%20activity.md) [2](fff)
 
 ## My Social Networks 👍🏻
 
